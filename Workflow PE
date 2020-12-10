@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T15:55:32.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.9.7" etag="v9KOxm2E_WT6REC3Vn51" type="github"><diagram id="MwqCkuWDjgY1nYPHhP13">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-10T16:04:14.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="I8ML8_rTRBPgvUSB5--t" version="13.9.7" type="github">
+  <diagram id="MwqCkuWDjgY1nYPHhP13" name="Page-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-1" value="Non-Disclosure Agreement (NDA)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-3" value="Letter of Intent (LOI)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-5" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EF4VeKcoG90HNlh8w2IQ-1" target="EF4VeKcoG90HNlh8w2IQ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-6" value="Articles of Organization Filing Date (Legal Entity)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EF4VeKcoG90HNlh8w2IQ-3" target="EF4VeKcoG90HNlh8w2IQ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-8" value="ASA/DASA Signed" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-9" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EF4VeKcoG90HNlh8w2IQ-6" target="EF4VeKcoG90HNlh8w2IQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-10" value="Operating Agreement" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="EF4VeKcoG90HNlh8w2IQ-8" target="EF4VeKcoG90HNlh8w2IQ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-12" value="Center sees First Patient (Operations Mode)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-14" value="Implement." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-15" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EF4VeKcoG90HNlh8w2IQ-10" target="EF4VeKcoG90HNlh8w2IQ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="330" />
+              <mxPoint x="60" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EF4VeKcoG90HNlh8w2IQ-14" target="EF4VeKcoG90HNlh8w2IQ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
