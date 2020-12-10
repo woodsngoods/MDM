@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T16:04:14.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="I8ML8_rTRBPgvUSB5--t" version="13.9.7" type="github">
-  <diagram id="MwqCkuWDjgY1nYPHhP13" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-12-10T16:27:39.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0rmdb9a6aa2cYLZndXC-" version="13.9.7" type="github" pages="2">
+  <diagram id="MwqCkuWDjgY1nYPHhP13" name="Center Workflow">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -60,6 +60,80 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EF4VeKcoG90HNlh8w2IQ-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EF4VeKcoG90HNlh8w2IQ-14" target="EF4VeKcoG90HNlh8w2IQ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-17" value="Center Operation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EF4VeKcoG90HNlh8w2IQ-18" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EF4VeKcoG90HNlh8w2IQ-12" target="EF4VeKcoG90HNlh8w2IQ-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKfy5OYSzi_Yg8QV9ocI-1" value="Onboarding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nKfy5OYSzi_Yg8QV9ocI-2" value="Offboarding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nKfy5OYSzi_Yg8QV9ocI-3" value="Center Closes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eR-Wbge05n-oVsUI6Whc" name="Physician Workflow">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="NSaRq-VGxHboKkxCArP--0" />
+        <mxCell id="NSaRq-VGxHboKkxCArP--1" parent="NSaRq-VGxHboKkxCArP--0" />
+        <mxCell id="NSaRq-VGxHboKkxCArP--2" value="Board Meets and Approves Physician" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="NSaRq-VGxHboKkxCArP--1">
+          <mxGeometry x="40" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NSaRq-VGxHboKkxCArP--3" value="Onboarding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NSaRq-VGxHboKkxCArP--1">
+          <mxGeometry x="60" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-0" value="Offboarding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NSaRq-VGxHboKkxCArP--1">
+          <mxGeometry x="50" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-1" value="Physician makes known desire to leave/retire" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="NSaRq-VGxHboKkxCArP--1">
+          <mxGeometry x="40" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="NSaRq-VGxHboKkxCArP--1" source="kBbSaCz1s8ZYhnX3LkOt-1" target="kBbSaCz1s8ZYhnX3LkOt-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-3" value="Ownership shares are redistributed" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="NSaRq-VGxHboKkxCArP--1">
+          <mxGeometry x="190" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-4" value="Physician is allowed to leave/retire" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="NSaRq-VGxHboKkxCArP--1">
+          <mxGeometry x="330" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-5" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NSaRq-VGxHboKkxCArP--1" source="kBbSaCz1s8ZYhnX3LkOt-3" target="kBbSaCz1s8ZYhnX3LkOt-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-6" value="Ownership Percentages Established" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="NSaRq-VGxHboKkxCArP--1">
+          <mxGeometry x="330" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-8" value="Credentialing" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="NSaRq-VGxHboKkxCArP--1">
+          <mxGeometry x="190" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NSaRq-VGxHboKkxCArP--1" source="NSaRq-VGxHboKkxCArP--2" target="kBbSaCz1s8ZYhnX3LkOt-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBbSaCz1s8ZYhnX3LkOt-10" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NSaRq-VGxHboKkxCArP--1" source="kBbSaCz1s8ZYhnX3LkOt-8" target="kBbSaCz1s8ZYhnX3LkOt-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="260" as="sourcePoint" />
             <mxPoint x="450" y="210" as="targetPoint" />
