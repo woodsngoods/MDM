@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T15:33:29.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="N3f1YVd11jf0ZUNylWTu" version="14.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-15T23:16:35.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IDTJ7tQis0BWqR4f5554" version="14.2.3" type="github" pages="4">
   <diagram id="kGB5FGs5hkhaaStP4H3-" name="Beta Tester">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -700,7 +700,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jIdojlV7mpYwVQFkWelg" name="ROFE Feature Mgmt">
-    <mxGraphModel dx="2031" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ZOnThNEUCgkoaVleU7zf-0" />
         <mxCell id="ZOnThNEUCgkoaVleU7zf-1" parent="ZOnThNEUCgkoaVleU7zf-0" />
@@ -757,8 +757,8 @@
         <mxCell id="euZDaJCK7KDe_PNFjI6a-0" value="MDM User" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=Helvetica;fontSize=20;fontStyle=1" parent="ZOnThNEUCgkoaVleU7zf-1" vertex="1">
           <mxGeometry x="732" y="-897.5" width="108" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="euZDaJCK7KDe_PNFjI6a-3" value="Assign to Role" style="fillColor=none;strokeColor=none;fontSize=20;fontStyle=1;align=left;" parent="ZOnThNEUCgkoaVleU7zf-1" vertex="1">
-          <mxGeometry x="732" y="-824.5" width="150" height="20" as="geometry" />
+        <mxCell id="euZDaJCK7KDe_PNFjI6a-3" value="Assign to MDM Role" style="fillColor=none;strokeColor=none;fontSize=20;fontStyle=1;align=left;" parent="ZOnThNEUCgkoaVleU7zf-1" vertex="1">
+          <mxGeometry x="732" y="-824.5" width="198" height="20" as="geometry" />
         </mxCell>
         <mxCell id="euZDaJCK7KDe_PNFjI6a-4" value="Save" style="strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;html=1;shadow=0;dashed=0;fillColor=#dae8fc;" parent="ZOnThNEUCgkoaVleU7zf-1" vertex="1">
           <mxGeometry x="732" y="-639.25" width="60" height="33" as="geometry" />
@@ -796,7 +796,7 @@
         <mxCell id="8TZvRxfZkTu91ySKN2S1-12" value="Release Features to Production" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=Helvetica;fontSize=20;fontStyle=1" parent="ZOnThNEUCgkoaVleU7zf-1" vertex="1">
           <mxGeometry x="2300" y="-530" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8TZvRxfZkTu91ySKN2S1-22" value="Jennifer Rivera" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=17;spacingLeft=10;labelBackgroundColor=none;" parent="ZOnThNEUCgkoaVleU7zf-1" vertex="1">
+        <mxCell id="8TZvRxfZkTu91ySKN2S1-22" value="John Smith" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=17;spacingLeft=10;labelBackgroundColor=none;" parent="ZOnThNEUCgkoaVleU7zf-1" vertex="1">
           <mxGeometry x="862" y="-907.5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8TZvRxfZkTu91ySKN2S1-23" value="" style="shape=triangle;direction=south;strokeColor=none;perimeter=none;" parent="8TZvRxfZkTu91ySKN2S1-22" vertex="1">
@@ -944,6 +944,9 @@
         </mxCell>
         <mxCell id="6QOfOxqFahtufYEgT7fA-0" value="Have Roles, but also a general one for General Audience" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;" parent="ZOnThNEUCgkoaVleU7zf-1" vertex="1">
           <mxGeometry x="360" y="-684.25" width="260" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="Ue8fi8D3UL2jSJq21Vb5-1" value="General Audience" style="align=left;verticalAlign=middle;fontStyle=0;fontSize=19;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0;fillColor=#330000;" vertex="1" parent="ZOnThNEUCgkoaVleU7zf-1">
+          <mxGeometry x="732" y="-684.25" width="12" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
