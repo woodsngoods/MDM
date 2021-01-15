@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T14:36:55.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mBt16rMEsDu0bEiJY1-4" version="14.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-15T14:37:36.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ZIEDda1yDeesVe_hcnV8" version="14.1.9" type="github" pages="4">
   <diagram id="kGB5FGs5hkhaaStP4H3-" name="Beta Tester">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -944,6 +944,9 @@
         </mxCell>
         <mxCell id="9eJd4LBVNREeSPawc0qK-0" value="HR" style="align=left;verticalAlign=middle;fontStyle=0;fontSize=19;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0" vertex="1" parent="ZOnThNEUCgkoaVleU7zf-1">
           <mxGeometry x="1282" y="-701.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="6QOfOxqFahtufYEgT7fA-0" value="Have Roles, but also a general one for General Audience" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;" vertex="1" parent="ZOnThNEUCgkoaVleU7zf-1">
+          <mxGeometry x="780" y="-893" width="260" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
