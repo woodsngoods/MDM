@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T13:58:29.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="k5NLA0ByhhLEa4qGfMLO" version="14.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-17T14:09:46.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Tt3QpOhx_BcumkP28glm" version="14.4.8" type="github" pages="2">
   <diagram id="81l7Y53HKJeqPWCyWkjZ" name="Task Entry Screen">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,6 +41,12 @@
         </mxCell>
         <mxCell id="yaKQ8jjhVCkhpQgL78vV-9" value="Task Due:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontColor=#6C7592;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="90" y="410" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yaKQ8jjhVCkhpQgL78vV-10" value="Assign" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="yaKQ8jjhVCkhpQgL78vV-11" value="Cancel" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="86" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
