@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T18:33:52.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.9" etag="g_Wvco747tET33PNbIo_" type="github"><diagram id="BFSabEWpfS-TzyRAkh6k">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-22T18:34:51.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mb7gkLsuCuFok_7_LALM" version="14.4.9" type="github">
+  <diagram id="BFSabEWpfS-TzyRAkh6k" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A3KMux8qfInkB7bi8HHQ-1" value="Individual" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=left;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0;spacingLeft=3" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A3KMux8qfInkB7bi8HHQ-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.x;strokeColor=#596780;strokeWidth=2" vertex="1" parent="A3KMux8qfInkB7bi8HHQ-1">
+          <mxGeometry x="1" y="0.5" width="6" height="6" relative="1" as="geometry">
+            <mxPoint x="-11" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3KMux8qfInkB7bi8HHQ-3" value="People Type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A3KMux8qfInkB7bi8HHQ-4" value="Physician" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=left;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0;spacingLeft=3" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A3KMux8qfInkB7bi8HHQ-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.x;strokeColor=#596780;strokeWidth=2" vertex="1" parent="A3KMux8qfInkB7bi8HHQ-4">
+          <mxGeometry x="1" y="0.5" width="6" height="6" relative="1" as="geometry">
+            <mxPoint x="-11" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3KMux8qfInkB7bi8HHQ-6" value="Physician" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=left;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0;spacingLeft=3" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A3KMux8qfInkB7bi8HHQ-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.x;strokeColor=#596780;strokeWidth=2" vertex="1" parent="A3KMux8qfInkB7bi8HHQ-6">
+          <mxGeometry x="1" y="0.5" width="6" height="6" relative="1" as="geometry">
+            <mxPoint x="-11" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
