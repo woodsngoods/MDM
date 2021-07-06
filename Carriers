@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T18:37:49.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="lVLfAzKoD64f0W7HnIHo" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-06T18:40:30.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="rxApxjrYBMcgqwTyCYib" version="14.8.4" type="github" pages="2">
   <diagram id="DA0azBGGYNrlhXgH1ogI" name="Carriers Main Page">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,10 +64,10 @@
           <mxGeometry x="97" y="-220" width="406" height="219" as="geometry" />
         </mxCell>
         <mxCell id="DEnYVtUKFQNrRSzVudGT-8" value="&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6C7592;fillColor=none;fontFamily=Helvetica;fontColor=#6C7592;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
-          <mxGeometry x="510" y="-866" width="700" height="576" as="geometry" />
+          <mxGeometry x="520" y="-866" width="340" height="576" as="geometry" />
         </mxCell>
         <mxCell id="DEnYVtUKFQNrRSzVudGT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=#6C7592;fillColor=none;strokeColor=#6C7592;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
-          <mxGeometry x="510" y="-866" width="700" height="64" as="geometry" />
+          <mxGeometry x="510" y="-866" width="350" height="64" as="geometry" />
         </mxCell>
         <mxCell id="DEnYVtUKFQNrRSzVudGT-10" value="Plans" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=#6C7592;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
           <mxGeometry x="555" y="-859.5" width="100" height="40" as="geometry" />
@@ -151,6 +151,30 @@
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="t41owCf16Hdm9JkcN-_d-52" value="&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6C7592;fillColor=none;fontFamily=Helvetica;fontColor=#6C7592;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
+          <mxGeometry x="520" y="-290" width="460" height="576" as="geometry" />
+        </mxCell>
+        <mxCell id="t41owCf16Hdm9JkcN-_d-53" value="Contract" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=#6C7592;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
+          <mxGeometry x="555" y="-283.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t41owCf16Hdm9JkcN-_d-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAcCAYAAAB2+A+pAAABOUlEQVRIDe1WQQsBQRT2g10cXJRQDhw47EVxoBz2oBycVpubXKRIDpSzkhSKsm2fdha9zOzuLNZu2Jrt1c6bb773vve1MYT0xELCRZSBDcw7ChLJNOKeK4d8Z4mzRBklGM9Q8wSkl1Ix/krgRLaIVDYnKL8vxgY2iz7aagsNblWREZS6NgUwVQXAZZS4M6xzNfQW23v/WY/Po6bgANo3Ehc0zPcHHA0Axgm7/RLtAvkuuCQVZWVkJcIep5WufAw4r6+fBL4yci61O/uXgZ3FFTAw7Zuf+GXGfsDo3qgCqxiaV98zJ5xlZrq2Mq0dq275YSLccz0YU/fhvfqWzIC5UZTLZQbCz7H7rQNk7D4SVCx+41u1HBj/HnBoPZZT5l/VMgqPhqp3g/qD7QU3TsrgwLxY4veW7Xv76wKbDNBGZ+QR2AAAAABJRU5ErkJggg==;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
+          <mxGeometry x="525" y="-277.5" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="t41owCf16Hdm9JkcN-_d-55" value="Name" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontColor=#6C7592;fontSize=19;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
+          <mxGeometry x="530" y="-215" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t41owCf16Hdm9JkcN-_d-56" value="Aetna 2021 Contract" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;fillColor=none;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
+          <mxGeometry x="620" y="-220" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t41owCf16Hdm9JkcN-_d-57" value="Date" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontColor=#6C7592;fontSize=19;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
+          <mxGeometry x="530" y="-165" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t41owCf16Hdm9JkcN-_d-58" value="01/01/2021" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;fillColor=none;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
+          <mxGeometry x="620" y="-170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t41owCf16Hdm9JkcN-_d-60" value="12/31/2021" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;fillColor=none;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
+          <mxGeometry x="740" y="-170" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
