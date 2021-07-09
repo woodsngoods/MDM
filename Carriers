@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T13:51:51.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="X2_g6GESIRRfs9fMkNWY" version="14.8.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-09T13:53:26.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="azRuPcfqapiqs1ZdcbY1" version="14.8.5" type="github" pages="4">
   <diagram id="DA0azBGGYNrlhXgH1ogI" name="Carriers Main Page">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qEWVydxtEW5QXsRcJ9qW" name="Carriers Page">
-    <mxGraphModel dx="2272" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2881" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8gL1GSEqMKz5hg-chc5L-0" />
         <mxCell id="8gL1GSEqMKz5hg-chc5L-1" parent="8gL1GSEqMKz5hg-chc5L-0" />
@@ -169,7 +169,7 @@
           <mxGeometry x="1049.5" y="-414" width="55.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0LFWhRHhxK8ngatxb-RO-31" value="&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6C7592;fillColor=none;fontFamily=Helvetica;fontColor=#6C7592;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
-          <mxGeometry x="90" y="-420" width="420" height="342" as="geometry" />
+          <mxGeometry x="90" y="-420" width="420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0LFWhRHhxK8ngatxb-RO-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=#6C7592;fillColor=none;strokeColor=#6C7592;" vertex="1" parent="8gL1GSEqMKz5hg-chc5L-1">
           <mxGeometry x="90" y="-420" width="420" height="64" as="geometry" />
@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gHIsHaKl-HhCc8eNRa3I" name="Plans Page">
-    <mxGraphModel dx="1673" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="2370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="CRckT3YAzmcM_SdQZAue-0" />
         <mxCell id="CRckT3YAzmcM_SdQZAue-1" parent="CRckT3YAzmcM_SdQZAue-0" />
@@ -249,7 +249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Carriers with Plan Info" id="1iHG0htzMAxXXNvjZoi1">
-    <mxGraphModel dx="2272" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3220" dy="2370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="sTBndaHd94E3c05ycaIM-0" />
         <mxCell id="sTBndaHd94E3c05ycaIM-1" parent="sTBndaHd94E3c05ycaIM-0" />
